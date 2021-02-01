@@ -8,7 +8,7 @@ ms.date: 09/14/2020
 
 # HTTP extension protocol
 
-Live Video Analytics on IoT Edge allows you to extend the media graph processing capabilities through a [graph extension node](https://review.docs.microsoft.com/en-us/azure/media-services/live-video-analytics-edge/media-graph-extension-concept?branch=release-lva-dec-update). If you use the HTTP extension processor as the extension node, then the communication between Live Video Analytics module and your AI or CV module is over HTTP
+Live Video Analytics on IoT Edge allows you to extend the media graph processing capabilities through a [graph extension node](https://docs.microsoft.com/en-us/azure/media-services/live-video-analytics-edge/media-graph-extension-concept?branch=release-lva-dec-update). If you use the HTTP extension processor as the extension node, then the communication between Live Video Analytics module and your AI or CV module is over HTTP
 
 In this article, you will learn about using HTTP extension protocol to send messages between Live Video Analytics module and your AI or CV module. 
 
